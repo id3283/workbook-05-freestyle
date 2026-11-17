@@ -1,4 +1,6 @@
 package transpo;
 
-public class WheeledVehicle {
+public class WheeledVehicle extends Vehicle {
+    int wheels;
+
 }

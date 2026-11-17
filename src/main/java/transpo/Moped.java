@@ -1,4 +1,7 @@
 package transpo;
 
-public class Moped {
+public class Moped extends WheeledVehicle {
+
+
+
 }

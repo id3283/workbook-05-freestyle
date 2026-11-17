@@ -1,4 +1,4 @@
 package transpo;
 
-public class Hovercraft {
+public class Hovercraft extends Vehicle {
 }
