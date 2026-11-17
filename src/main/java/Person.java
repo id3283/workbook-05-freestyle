@@ -8,7 +8,6 @@ public class Person {
 //        System.out.println("I'm creating the parent class: Person");
     }
 
-
     public void play() {
         System.out.println("Wee.  I'm playing...");
     }
